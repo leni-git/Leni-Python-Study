@@ -1,0 +1,13 @@
+# 파일 임의 생성 창 ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
+# f = open("documents/SERVER_MOVIE_LIST.txt", "wb")
+# movielist = [MovieInfo("1", "spi", ["01:30", "02:00"]), MovieInfo("2", "abc", ["04:30", "08:00"]),]
+# print "len movielist : ", len(movielist)
+# pickle.dump(movielist, f)
+# f.close()
+
+# f=open("documents/SERVER_PERSON_INFO.txt", "wb")
+# customerList=[PersonInfo("Customer", "1", "ChaeMin, Kim", "1", "ad/yes"), PersonInfo("Employee", "2", "YongHwan, Kim", "0", "ad/yes"), PersonInfo("Customer1", "1", "Min", "1", "ad/no"), PersonInfo("Customer2", "1", "Leni", "1", "ad/no"), PersonInfo("Customer3", "1", "Kim", "1", "ad/yes")]
+# print "len customerList : ", len(customerList)
+# pickle.dump(customerList, f)
+# f.close()
+# ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
